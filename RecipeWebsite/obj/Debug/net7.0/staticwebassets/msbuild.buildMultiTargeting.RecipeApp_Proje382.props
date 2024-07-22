@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RecipeApp_Proje382.props" />
+</Project>
